@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LaunchMap</string>
+    <string name="Intro">Hi! Enter the latitude and longitude in the boxes below</string>
+    <string name="Latitude">Latitude</string>
+    <string name="Latitude_hint">61.68857</string>
+    <string name="Longitude">Longitude</string>
+    <string name="Longitude_hint"> 27.27227</string>
+    <string name="Button">Find the place!</string>
+</resources>

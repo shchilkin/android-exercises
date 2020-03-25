@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SumCalculator</string>
+    <string name="FirstValueEnter">Enter your first value</string>
+    <string name="SecondValueEnter">Enter your second value</string>
+    <string name="GetResult">Get the result!</string>
+    <string name="Block1">For instance 10</string>
+    <string name="Block2">or 20</string>
+    <string name="ResultText">You result will appear here as you enter your 2 values and press the button</string>
+    <string name="ResultTextClicked">Your result is:</string>
+
+</resources>

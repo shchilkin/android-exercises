@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EmployeesFragmentsApp</string>
+    <string name="descriptionTextView">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eget eleifend velit, et eleifend nibh. Vestibulum pretium erat a purus venenatis, non tempus felis pretium. Curabitur nec nunc quis metus venenatis hendrerit. Nulla lobortis pellentesque diam. Nullam fringilla in nibh ac consequat. In mattis orci a tellus mattis, nec congue erat maximus. Duis ullamcorper lectus est, quis vulputate leo molestie sed.
+
+        Fusce lobortis vulputate dui, sed aliquam sem efficitur a. Cras semper lectus in velit molestie accumsan. Sed semper sapien a scelerisque mollis. Aliquam ultricies orci ac odio consectetur, non volutpat felis imperdiet. Vivamus eu cursus metus. Quisque tempus fringilla varius. Nulla mollis libero ac commodo tempor.</string>
+    <string name="departmentTextView">Department</string>
+    <string name="emailTextView">email@domail.io</string>
+    <string name="phoneTextView">88005353535</string>
+    <string name="TitleTextView">Software Developer</string>
+    <string name="nameTextView">Name Surname</string>
+</resources>

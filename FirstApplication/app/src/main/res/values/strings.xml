@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="button_clicked_txt">Button clicked!</string>
+    <string name="button_txt">Click me!</string>
+    <string name="portrait_txt" translatable="false">Portrait orientation</string>
+    <string name="landscape_txt" translatable="false">Landscape orientation</string>
+</resources>

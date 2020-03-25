@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AdaptiveUIExercise</string>
+    <string name="name">Kitten name</string>
+    <string name="description">Kitten description</string>
+    <string name="contentofDescription">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec imperdiet fringilla ipsum, ut blandit nulla faucibus sit amet. Quisque lorem erat, hendrerit ut fermentum in, accumsan eget lorem. Duis ut ex justo. Suspendisse id cursus diam, eu ullamcorper quam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In quis velit vel tellus pellentesque congue. Ut efficitur tristique turpis vel varius. Integer id lacus mi. Quisque maximus leo eget nisi semper pharetra. Suspendisse ullamcorper blandit tincidunt. Pellentesque vel leo lobortis, mattis sem egestas, aliquet ipsum.</string>
+</resources>

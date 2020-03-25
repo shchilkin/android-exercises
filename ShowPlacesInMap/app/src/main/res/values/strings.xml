@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Show Places In Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

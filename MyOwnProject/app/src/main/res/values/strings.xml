@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Own Project</string>
+    <string name="MapActivity">This button leads to the map activity</string>
+    <string name="MapActivityButton">Go to the map activity!</string>
+    <string name="Calculator">This button leads to the simple calculator</string>
+    <string name="Calculator_Button">Go to the calculator activity!</string>
+    <string name="Calculator_FirstValue_hint">Enter your first value</string>
+    <string name="Calculator_Description">This is a simple calculator, which could perform basic tasks.</string>
+    <string name="CalculatorSecondValueHint">Enter your second value</string>
+    <string name="CalculatorButtonSum">+</string>
+    <string name="CalculatorButtonSubtraction">-</string>
+    <string name="CalculatorButtonDivision">÷</string>
+    <string name="CalculatorButtonMultiplication">×</string>
+    <string name="Result">Your result will appear here</string>
+    <string name="HowToUseCalculatorDescription">After you typed two values, press the button with action sign, which
+        calculator needs to perform. After that your result will appear in a result box below.
+    </string>
+    <string name="EmployeeList">This button leads to the employees list!</string>
+    <string name="EmployeeButton">Go to the employee list!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="longitudeHint">Enter the longitude</string>
+    <string name="latitudeHint">Enter the latitude</string>
+    <string name="markerAdd">Add a marker!</string>
+    <string name="MarkerName">Enter the marker name</string>
+</resources>
